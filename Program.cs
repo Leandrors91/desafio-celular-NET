@@ -6,7 +6,7 @@ nokia.Ligar();
 nokia.ReceberLigacao();
 nokia.InstalarAplicativo("whatsaap");
 
-Smartphone iphone = new Iphone("11-99896-8016","c12","111111-11-111111-1",64);
+Smartphone iphone = new Iphone("11-99896-8016","15","222222-22-222222-2",128);
 iphone.Ligar();
 iphone.ReceberLigacao();
 iphone.InstalarAplicativo("whatsaap");
